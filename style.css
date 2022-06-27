@@ -1,0 +1,49 @@
+header{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+footer{
+    flex-shrink: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: flex-start;
+}
+h1{
+    font-family: chaney;
+    font-size: 35px;
+    text-align: center;
+}
+h2{
+    font-family: archivo;
+    font-size: 15px;
+    text-align: center;
+}
+h3{
+    font-family: archivo;
+    font-size: 25px;
+}
+h4{
+    font-family: archivo;
+    font-size:medium;
+}
+.series{
+    background-color: black;
+    border-radius: 15px;
+    width: 60%;
+    padding: 30px 30px 30px 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.descript{
+    text-align: justify;
+    color: white;
+    margin-left: auto;
+    margin-right: 0px;
+}
+img{
+    border-radius: 10px;
+    width: 40%;
+}
+.stranger{
+    position: static;
+}
